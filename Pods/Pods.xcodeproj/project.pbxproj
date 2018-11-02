@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -97,12 +97,12 @@
 		08DF5389BC59D06D2F2594EB5B8F350D /* Pods-secp256k1ref-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-secp256k1ref-dummy.m"; sourceTree = "<group>"; };
 		09D20E8EEF19371B5BD92E77922CFDF2 /* Words and Bits.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Words and Bits.swift"; path = "sources/Words and Bits.swift"; sourceTree = "<group>"; };
 		0CAFBBE2A147AC62C7FA9E54D7470D4A /* Pods-secp256k1refTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-secp256k1refTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		168D698033F547B38337A779B2D94CE4 /* SipHash.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SipHash.modulemap; sourceTree = "<group>"; };
+		168D698033F547B38337A779B2D94CE4 /* SipHash.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SipHash.modulemap; sourceTree = "<group>"; };
 		1A95DB7E8EC4D5D8EC168866126777CB /* Division.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Division.swift; path = sources/Division.swift; sourceTree = "<group>"; };
-		1E09697C2622FBB9F83E3C53F29972A2 /* Pods-secp256k1refTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-secp256k1refTests.modulemap"; sourceTree = "<group>"; };
+		1E09697C2622FBB9F83E3C53F29972A2 /* Pods-secp256k1refTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-secp256k1refTests.modulemap"; sourceTree = "<group>"; };
 		1E5D792FBF433DA02718FA3701331E08 /* Pods-secp256k1Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-secp256k1Tests-resources.sh"; sourceTree = "<group>"; };
 		1E7203BA0266ECE03A2079217767F38E /* Pods-secp256k1Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-secp256k1Tests-umbrella.h"; sourceTree = "<group>"; };
-		2E1885E863B3AF08E4BCF52E6D84D018 /* BigInt.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = BigInt.modulemap; sourceTree = "<group>"; };
+		2E1885E863B3AF08E4BCF52E6D84D018 /* BigInt.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = BigInt.modulemap; sourceTree = "<group>"; };
 		310E6F79CDBA8D947574034C8F589A2D /* Random.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Random.swift; path = sources/Random.swift; sourceTree = "<group>"; };
 		3636BCF73193EE4709CAA006A70C675E /* Pods-secp256k1ref-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-secp256k1ref-umbrella.h"; sourceTree = "<group>"; };
 		381C6BB7B79DB22DB10DB3D6F7BA50A1 /* Pods-secp256k1Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-secp256k1Tests-dummy.m"; sourceTree = "<group>"; };
@@ -114,7 +114,7 @@
 		3E03173DE33BF8D85643850B5DF569B4 /* Primitive Types.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Primitive Types.swift"; path = "SipHash/Primitive Types.swift"; sourceTree = "<group>"; };
 		425ED3B425ECCD35FFDA727F4F25B463 /* Codable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Codable.swift; path = sources/Codable.swift; sourceTree = "<group>"; };
 		4438C7E78B2E45382834A037BCF293DF /* Pods-secp256k1ref-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-secp256k1ref-acknowledgements.markdown"; sourceTree = "<group>"; };
-		467B08429EEEFA1C8FBC2292320BA5F9 /* Pods-secp256k1ref.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-secp256k1ref.modulemap"; sourceTree = "<group>"; };
+		467B08429EEEFA1C8FBC2292320BA5F9 /* Pods-secp256k1ref.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-secp256k1ref.modulemap"; sourceTree = "<group>"; };
 		483265B1E86EC79DB119C3AE718B1213 /* Pods-secp256k1ref.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-secp256k1ref.debug.xcconfig"; sourceTree = "<group>"; };
 		48743EEA0C686ECDB0C2D930F6AFF32C /* SipHash-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SipHash-umbrella.h"; sourceTree = "<group>"; };
 		4985651F0755A7F5A520FA864AB4DE82 /* RandomUInt64.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RandomUInt64.swift; path = SipHash/RandomUInt64.swift; sourceTree = "<group>"; };
@@ -127,16 +127,16 @@
 		5F91455017BFFD1014ADE2023B0DBF8B /* Hashable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Hashable.swift; path = sources/Hashable.swift; sourceTree = "<group>"; };
 		62116643808B6715FCB09C92DDEB8915 /* SipHash-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SipHash-prefix.pch"; sourceTree = "<group>"; };
 		634483A66EA1A6EE303DB8567EF3C1EE /* Pods-secp256k1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-secp256k1.release.xcconfig"; sourceTree = "<group>"; };
-		6DB793076B889E4AFCDF22EB44161CC5 /* Pods-secp256k1.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-secp256k1.modulemap"; sourceTree = "<group>"; };
+		6DB793076B889E4AFCDF22EB44161CC5 /* Pods-secp256k1.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-secp256k1.modulemap"; sourceTree = "<group>"; };
 		6EB54A788347E9343D300F2CB961C41A /* Pods-secp256k1-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-secp256k1-resources.sh"; sourceTree = "<group>"; };
 		6FCB91905A5774F413E06C7DD1FF908E /* Subtraction.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Subtraction.swift; path = sources/Subtraction.swift; sourceTree = "<group>"; };
 		6FF65EEF7B5E8D8FDDADA80DF97F0A9E /* Pods-secp256k1-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-secp256k1-acknowledgements.markdown"; sourceTree = "<group>"; };
-		74EDB3250DD33A6574FAC1001E65A885 /* BigInt.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BigInt.framework; path = BigInt.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		74EDB3250DD33A6574FAC1001E65A885 /* BigInt.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BigInt.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		76F768FFE0587592BAB81ED2F9329D55 /* Pods-secp256k1refTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-secp256k1refTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		7719F8F3C504FA250E48E581219460ED /* SipHash.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SipHash.xcconfig; sourceTree = "<group>"; };
 		779E454B09999050F8470335A8C2681F /* Pods-secp256k1ref-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-secp256k1ref-resources.sh"; sourceTree = "<group>"; };
 		7CB86F6E35CFF7D3CF502289659F65A6 /* Pods-secp256k1refTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-secp256k1refTests-dummy.m"; sourceTree = "<group>"; };
-		7D07438BA2D68C2A22855EB4A4E02731 /* SipHash.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SipHash.framework; path = SipHash.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D07438BA2D68C2A22855EB4A4E02731 /* SipHash.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SipHash.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E379F84B6FA1E21969CA067340AD508 /* Integer Conversion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Integer Conversion.swift"; path = "sources/Integer Conversion.swift"; sourceTree = "<group>"; };
 		8110DE47AE25E303781FB0709916B45F /* Pods-secp256k1refTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-secp256k1refTests-frameworks.sh"; sourceTree = "<group>"; };
 		832CB33D29708E05BABA9EA386080DF0 /* SipHasher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SipHasher.swift; path = SipHash/SipHasher.swift; sourceTree = "<group>"; };
@@ -145,10 +145,10 @@
 		8E512C33C9D60CB8614F561DA894747E /* Floating Point Conversion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Floating Point Conversion.swift"; path = "sources/Floating Point Conversion.swift"; sourceTree = "<group>"; };
 		926628E8AC5BC2CA67E1D6EF5510BAC3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9358B8612384DBF8771DC9A00CD8D284 /* SipHash.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SipHash.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9428EA6525D685D4907F865C916E64D1 /* Pods-secp256k1Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-secp256k1Tests-frameworks.sh"; sourceTree = "<group>"; };
 		95F8F60EF48F314020C755C49F642242 /* String Conversion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "String Conversion.swift"; path = "sources/String Conversion.swift"; sourceTree = "<group>"; };
-		9BCF50E0A604E8CC53A549ABDD83CDF9 /* Pods-secp256k1Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-secp256k1Tests.modulemap"; sourceTree = "<group>"; };
+		9BCF50E0A604E8CC53A549ABDD83CDF9 /* Pods-secp256k1Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-secp256k1Tests.modulemap"; sourceTree = "<group>"; };
 		9E1A466A28408795FB50FFF81EDA0F1C /* Pods-secp256k1-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-secp256k1-dummy.m"; sourceTree = "<group>"; };
 		A2DEC94881D8B305DC734D82FE5DCE87 /* Prime Test.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Prime Test.swift"; path = "sources/Prime Test.swift"; sourceTree = "<group>"; };
 		ADB69929A6C0D1559E1092D9B72A700D /* Pods-secp256k1Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-secp256k1Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -157,7 +157,7 @@
 		B7A3BFD584A452C8A2C44CE7782FEB33 /* Pods-secp256k1refTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-secp256k1refTests.release.xcconfig"; sourceTree = "<group>"; };
 		B8B19F2B252BC569FDA389A26CA62E63 /* SipHash-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SipHash-dummy.m"; sourceTree = "<group>"; };
 		BA1047500213CD434E395259D09B443A /* BigInt.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BigInt.swift; path = sources/BigInt.swift; sourceTree = "<group>"; };
-		BEA7ED5D28C8CAF2CBD7546231BEC77E /* Pods_secp256k1refTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_secp256k1refTests.framework; path = "Pods-secp256k1refTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEA7ED5D28C8CAF2CBD7546231BEC77E /* Pods_secp256k1refTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_secp256k1refTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C27492C96C493E7524BC5F01388F5EF2 /* BigInt.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BigInt.xcconfig; sourceTree = "<group>"; };
 		C7D692EB638E4D104610D0D632EF6884 /* Pods-secp256k1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-secp256k1.debug.xcconfig"; sourceTree = "<group>"; };
 		C9415D0C6BF879031CD69931AD468A3D /* BigUInt.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BigUInt.swift; path = sources/BigUInt.swift; sourceTree = "<group>"; };
@@ -165,19 +165,19 @@
 		CE386C1092AC086EA2B3B748AE4755EF /* Exponentiation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Exponentiation.swift; path = sources/Exponentiation.swift; sourceTree = "<group>"; };
 		D8B2872BB7A1E4664B1EA2EA637AB4E5 /* Multiplication.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Multiplication.swift; path = sources/Multiplication.swift; sourceTree = "<group>"; };
 		DC20EE64BBCBB0E0DC05205D4BC6A548 /* Comparable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Comparable.swift; path = sources/Comparable.swift; sourceTree = "<group>"; };
-		DC251FBD594D0C24111C955FB0CB132F /* Pods_secp256k1ref.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_secp256k1ref.framework; path = "Pods-secp256k1ref.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC251FBD594D0C24111C955FB0CB132F /* Pods_secp256k1ref.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_secp256k1ref.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10E2C7D2C0ED42C2C256A3CA536441E /* Shifts.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Shifts.swift; path = sources/Shifts.swift; sourceTree = "<group>"; };
 		EC7C0B21393B3D925189FC8ADC742E8A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED62A67444A2EB33A14A37B7C0248BA9 /* Strideable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Strideable.swift; path = sources/Strideable.swift; sourceTree = "<group>"; };
 		ED7168659012BAAF9D7F2E176E708C66 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EDC2F3120F392D305416EDCB5184A38A /* Pods_secp256k1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_secp256k1.framework; path = "Pods-secp256k1.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDC2F3120F392D305416EDCB5184A38A /* Pods_secp256k1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_secp256k1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF19CFB93448B37C01B90B3BEDB01EB5 /* Pods-secp256k1ref.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-secp256k1ref.release.xcconfig"; sourceTree = "<group>"; };
 		F08F9E2E0DBB7BEB33A325CABECA0D21 /* Pods-secp256k1refTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-secp256k1refTests-umbrella.h"; sourceTree = "<group>"; };
 		F78253CCB77521223AC7850ACEB76B88 /* Pods-secp256k1-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-secp256k1-acknowledgements.plist"; sourceTree = "<group>"; };
 		F9DE3D14B6970D64CC17E7FF2E5B1198 /* Square Root.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Square Root.swift"; path = "sources/Square Root.swift"; sourceTree = "<group>"; };
 		FADF6FD0087A2FFB22AF1907E61FBFAE /* Pods-secp256k1refTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-secp256k1refTests-resources.sh"; sourceTree = "<group>"; };
 		FCC81A47FD1DF7823CD6548593DAC00C /* Bitwise Ops.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Bitwise Ops.swift"; path = "sources/Bitwise Ops.swift"; sourceTree = "<group>"; };
-		FEC8176FAD12A858CCEF950385605459 /* Pods_secp256k1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_secp256k1Tests.framework; path = "Pods-secp256k1Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEC8176FAD12A858CCEF950385605459 /* Pods_secp256k1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_secp256k1Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -281,7 +281,6 @@
 				832CB33D29708E05BABA9EA386080DF0 /* SipHasher.swift */,
 				32236A2306148E1A7F4E932147CF0E4D /* Support Files */,
 			);
-			name = SipHash;
 			path = SipHash;
 			sourceTree = "<group>";
 		};
@@ -367,7 +366,6 @@
 				09D20E8EEF19371B5BD92E77922CFDF2 /* Words and Bits.swift */,
 				060651E0D5C56021979CDFF69765E5E3 /* Support Files */,
 			);
-			name = BigInt;
 			path = BigInt;
 			sourceTree = "<group>";
 		};
@@ -604,7 +602,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 1010;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -788,6 +786,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -795,6 +794,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -825,6 +825,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -843,6 +844,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -850,6 +852,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
